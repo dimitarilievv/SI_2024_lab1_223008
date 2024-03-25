@@ -1,0 +1,35 @@
+commit 471e4b4056628b14b2baa9c5ff9ef31b78588ee2
+Author: Dimitar I <dimitar.iliev123@gmail.com>
+Date:   Mon Mar 25 19:51:33 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit 41b3f26c1ea5596781948507e69d10433847b2f0
+Author: Dimitar I <dimitar.iliev123@gmail.com>
+Date:   Mon Mar 25 19:43:22 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit b70ab191d24253be1d4608de15be20fdf4518482
+Author: Dimitar I <dimitar.iliev123@gmail.com>
+Date:   Mon Mar 25 19:48:30 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit 547668454c558ca04210038aa62950d0280ad2ed
+Author: Dimitar I <dimitar.iliev123@gmail.com>
+Date:   Mon Mar 25 19:38:18 2024 +0100
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 7ae1604c5696a4224c7362a286d9245f4c5134df
+Author: Dimitar I <dimitar.iliev123@gmail.com>
+Date:   Mon Mar 25 19:25:33 2024 +0100
+
+    Add starter code
+
+commit 5cb1df70ae345fd6eda39263e0827282e42f7a16
+Author: Dimitar I <dimitar.iliev123@gmail.com>
+Date:   Mon Mar 25 19:11:19 2024 +0100
+
+    Initial commit
